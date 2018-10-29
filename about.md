@@ -12,4 +12,4 @@ In America, 54.5 million people--or 1 in 6 Americans--require assistive devices 
 
 ## Want to help?
 
-If you're interested in helping out, you can contact us via email at nc_clear_path@googlegroups.com, or you can reach out to the team on the [Open NC Slack channel](http://code-for-nc-slack-invitations.herokuapp.com/), which is part of Code for America.
+If you're interested in helping out, you can contact us via email at nc_clear_path@googlegroups.com, or you can reach out to the team on the [Open NC Slack channel](http://code-for-nc-slack-invitations.herokuapp.com/), which is part of Code for America. After joining the Slack group, search the channel list for #nc_clear_path to find us. 
