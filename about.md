@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Welcome to NC Clear Path! 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We're a team of open-data advocates across North Carolina dedicated to improving mapping and trip planning services for those with limited mobility. We work with open source projects and open map data to create solutions for safe pedestrian paths. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In America, 54.5 million people--or 1 in 6 Americans--require assistive devices or have trouble walking more than a quarter of a mile. These people face daily navigation challenges that are only made worse by applications like Google Maps that do not contain complete sidewalk data and do not consider such obstacles as missing curb cuts, broken sidewalks, or overly steep paths. 
 
+## Want to help?
 
-[jekyll-organization]: https://github.com/jekyll
+If you're interested in helping out, you can contact us via email at nc_clear_path@googlegroups.com, or you can reach out to the team on the [Open NC Slack channel](http://code-for-nc-slack-invitations.herokuapp.com/), which is part of Code for America.
