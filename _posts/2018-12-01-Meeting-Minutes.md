@@ -17,6 +17,9 @@ Meeting with Zach:
    
 Humanitarian Mapping event:
  * Mapathon collaboration with NC State
+ * Thursday, Jan 31 10am-12pm at DH Hill Library
+ * "The general format of our workshops is a presentation at the beginning followed by a hands-on activity, which takes up the bulk of the time. I'd love to have you give a brief overview of your project and then map NC sidewalks and other important features as our hands-on activity. I'll also present on the concept of humanitarian mapping and the open source mapping community more generally."
+ * still concerned about the value of mapathons before we figure out the .shp import process
  * more valuable to focus on areas outside of cities?
  * main goal is to get people exposed to mapping
  
@@ -31,3 +34,4 @@ Humanitarian Mapping event:
  * We'll plan to fill out the documents list with questions by Dec. 15th
  * Melanie - try to write some documentation about how the servers work for Nick to confirm
  * Crystal will also be creating documentation on the import process in the Google Drive folder
+ * Leila - meeting with Mia from NSCU Libraries to discuss the mapathon on Monday
